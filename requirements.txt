@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+websockets
+python-multipart
+pydantic
+async-exit-stack
+aiofiles
